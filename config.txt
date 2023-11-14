@@ -1,5 +1,5 @@
 Window 800 600
-Font /home/sahil/Documents/project1/OpenSans-Light.ttf 14 255 30 0
+Font /home/sahil/bouncing-shapes/OpenSans-Light.ttf 14 255 30 0
 Circle CGreen 100 100 -0.03 0.02 0 255 0 50
 Circle CBlue 200 200 0.02 0.04 0 0 255 100
 Circle CPurple 300 300 -0.02-0.01 255 0 255 75
